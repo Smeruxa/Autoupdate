@@ -1,4 +1,4 @@
 {
   "latest": "658923060952960239",
-  "updateurl": "dl=1"
+  "updateurl": "https://www.dropbox.com/s/iy2ashyspoko75f/fAwesome5.lua?dl=1"
 }
