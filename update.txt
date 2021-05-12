@@ -1,4 +1,1 @@
-{
-  "latest": "85",
-  "updateurl": "https://www.dropbox.com/s/iy2ashyspoko75f/fAwesome5.lua?dl=1"
-}
+
